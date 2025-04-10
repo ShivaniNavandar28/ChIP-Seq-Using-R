@@ -23,7 +23,7 @@ Perform pathway and gene ontology enrichment analysis
 **ReactomePA** : Functional enrichment analysis
 **Bioconductor packages** : Data handling and visualization
 
-## 🧪 Workflow Summary
+## Workflow Summary
 
 1. **Data Acquisition**  
    BED files downloaded from SRA (GSM accessions)
